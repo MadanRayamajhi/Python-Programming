@@ -1,3 +1,0 @@
-Welcome to Python File Handling!
-This file was created using Python.
-Writing files is easy.

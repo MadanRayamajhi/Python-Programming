@@ -1,0 +1,3 @@
+Day 1: Learned Python basics.
+Day 2: Learned loops.
+Day 3: Learned file handling.
