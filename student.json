@@ -1,0 +1,11 @@
+{
+    "name": "Madan",
+    "age": 22,
+    "course": "Computer Engineering",
+    "skills": [
+        "Python",
+        "SQL",
+        "Git"
+    ],
+    "is_learning": true
+}
